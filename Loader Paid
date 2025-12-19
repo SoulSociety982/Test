@@ -1,1 +1,2 @@
+script_key = "KEY" -- Paste your premium key here
 loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/7e7a2e20b6b6da53de3db7f979c87e8494d85d679ff96e91835cca5d19999803.lua"))()
