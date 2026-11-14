@@ -29,4 +29,16 @@ return {
         [636649648] = true,
         [80469437126309] = true,
     },
+    Arsenal = {
+        [286090429] = true,
+    },
+    BreakIn2Lobby = {
+        [13864661000] = true,
+    },
+    BreakIn2MainGame = {
+        [13864667823] = true,
+    },
+    DungeonQuestReborn = {
+        [85776757589518] = true,
+    },
 }
